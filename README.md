@@ -15,7 +15,7 @@
 
 ## 📸 Dashboard Preview
 **Real-Time Weather Forecasting Dashboard Link:** 
-https://realtimeweatherforecastingdashboard-maebppkkjwa2dndrnct6hl.streamlit.app/
+https://weather-forecasting-dashboard.streamlit.app
 
 ![image](https://github.com/user-attachments/assets/c826dde0-5ce0-4aea-9fd5-10727ccd3547)
 ![image](https://github.com/user-attachments/assets/981ccfd9-33ed-427e-8697-0b151483f03d)
